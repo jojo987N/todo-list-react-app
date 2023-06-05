@@ -1,12 +1,104 @@
-# Getting Started with Create React App
+# 📗 Table of Contents
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+- [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
 
-## Available Scripts
+- [🔭 Future Features](#future-features)
 
-In the project directory, you can run:
+- [🤝 Contributing](#contributing)
 
-### `npm start`
+- [⭐️ Show your support](#support)
+ 
+- [🙏 Acknowledgements](#acknowledgements)
+
+- [📝 License](#license)
+
+
+# 📖  To Do list: React app
+ <a name="about-project"></a>
+
+**To Do list** is a simple list of To Do tasks that allows users to add/remove tasks in the list . This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## 🛠 Built With <a name="built-with"></a>
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Linters
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+    <summary>Client</summary>
+        <ul>
+            <li><a  href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
+        </ul>
+        <ul>
+            <li><a  href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+        </ul>
+        <ul>
+            <li><a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a></li>
+        </ul>
+</details>
+
+### Key Features <a name="key-features"></a>
+
+-  Add a new task to the list
+-  Remove a task from the list
+-  Display all tasks saved in the list
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Coming soon 
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+- Web browser.
+- Code editor.
+- Git scm.
+
+### Setup
+
+Clone this repository to your desired folder:
+
+Run this command: 
+
+```sh
+ cd my-folder
+ git clone git@github.com:jojo987N/todo-list-react-app.git
+```
+### Install
+
+Install this project with:
+
+Run this command:
+
+```sh
+ cd my-folder
+ npm install
+```
+### Usage
+
+To run the project, execute the following command:
+
+#### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -14,13 +106,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+### Deployment
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
+#### `npm run build`
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
@@ -29,42 +117,39 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## 👥 Authors <a name="getting-started"></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+👤 Narcisse Jemba
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  - GitHub: [@githubhandle](https://github.com/jojo987N)
+  - Twitter: [@JembaNarcisse](https://twitter.com/JembaNarcisse)
+  - LinkedIn: [LinkedIn](https://www.linkedin.com/in/narcisse-jemba-aa9488252/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🔭 Future Features <a name="future-features"></a>
 
-## Learn More
+- [ ] To Do list: add & remove
+- [ ] To Do list: interactive list
+- [ ] Add more styles
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🤝 Contributing <a name="contributing"></a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Contributions, issues, and feature requests are welcome!
 
-### Code Splitting
+Feel free to check the [issues page](../../issues/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## ⭐️ Show your support <a name="support"></a>
 
-### Analyzing the Bundle Size
+If you like this project just give it a star ⭐️ .
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Everybody is welcome to suggest changes in To do list project .
 
-### Making a Progressive Web App
+In order to do it, fork this repository, create a new branch and open a Pull Request from your branch
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-### Advanced Configuration
+I would like to thank Microverse
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📝 License <a name="license"></a>
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is [MIT](./LICENSE.md) licensed.
